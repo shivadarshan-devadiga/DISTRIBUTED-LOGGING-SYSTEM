@@ -390,11 +390,24 @@ Apache Kafka is a distributed streaming platform used for building real-time dat
 Feel free to explore the documentation of these tools for a deeper understanding of how they work and how to configure them effectively for your logging system. These resources will help you troubleshoot, extend functionality, and leverage advanced features of each tool as needed.
 
 
-## Contact Me
+---
 
-Feel free to reach out with any questions, suggestions, or collaborations!
+## 👨‍💻 Contributors
 
-- **Email**: [ashleshat5@gmail.com](mailto:ashleshat5@gmail.com.com)
+- [Shivadarshan](https://github.com/shivadarshan-devadiga)
 
-## Thank You!
-Thank you for checking out our project! If you find it helpful, please give it a ⭐️ and share your feedback. 😊
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🛠 Feedback and Support
+
+For any feedback or support regarding this project, please [open an issue](https://github.com/shivadarshan-devadiga/DISTRIBUTED-LOGGING-SYSTEM/issues) on GitHub.
+
+---
+
+Thank you for exploring the **Distributed Logging System**
